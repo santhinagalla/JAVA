@@ -1,5 +1,3 @@
-package Algorithms;
-
 import java.util.Arrays;
 
 class ArrayStack<T> {
