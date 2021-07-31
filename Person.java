@@ -1,4 +1,3 @@
-package animaldemo;
 import java.util.*;
 
 public class Person {
