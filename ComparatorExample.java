@@ -144,22 +144,6 @@ public class ComparatorExample {
 
 
 
- /*
-
- // Java group by sort – multiple comparators example
-        List<Employee> list = Arrays.asList(new Employee(1010, "Rajeev", 100000.00, LocalDate.of(2010, 7, 10)),
-                new Employee(1004, "Chris", 95000.50, LocalDate.of(2017, 3, 19)),
-                new Employee(1015, "David", 134000.00, LocalDate.of(2017, 9, 28)),
-                new Employee(1009, "Steve", 100000.00, LocalDate.of(2016, 5, 18)));
-        System.out.println("Before Sort = "+ list);
-        Collections.sort(list, new NameSorter()
-                .thenComparing(new SalarySorter())
-                .thenComparing(new DateSorter()));
-        System.out.println("After Sort = "+list);
-        */
-
-
-
 
 
 
